@@ -60,6 +60,7 @@ python visualize.py
 ```bash
 python demo.py
 ```
+<img width="1440" height="701" alt="image" src="https://github.com/user-attachments/assets/c87e5c0b-8466-4847-b468-ab5144d7fe53" />
 
 ---
 
